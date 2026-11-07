@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# logs and system files
+*.log
+npm-debug.*
+.DS_Store
+Thumbs.db
+
+# secrets
+.env
+.env.*
+
+# native build output
+android/
+ios/
+*.apk
+*.aab
